@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGAEFd8nNoPT+nGkPa6Kpyml4ewqkZUZ7ty31ykdV3//N0IPqeJsaRR876E8YjExWPxEjbZN5SrdUOCGtqyTxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\learnings\\example-dotnet\\SuperMarket_web\\SuperMarket\\SuperMarket.Web\\SuperMarket.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
